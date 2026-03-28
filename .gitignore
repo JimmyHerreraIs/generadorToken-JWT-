@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+
+# Base de datos
+*.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
